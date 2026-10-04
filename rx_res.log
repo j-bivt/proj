@@ -1,0 +1,8 @@
+@echo off
+echo You just fell for a batfile dropper. (Learn more at https://www.malwarebytes.com/malware)
+echo Thankfully for you I'm not going to do anything bad to your system because I have no need of it
+echo because i am not an attacker. Please learn about how to keep yourself safe because next time
+echo something like this happens you probably wont get off so easy
+echo you could have personal info and accounts stolen like your bank and email accounts.
+echo Goodbye and keep yourself safe.
+pause >nul
